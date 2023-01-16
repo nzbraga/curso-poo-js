@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Happy-Monkey', sans-serif;    
+    border-radius: 5px;    
+}
+
+.hide {
+    display: none;
+}
